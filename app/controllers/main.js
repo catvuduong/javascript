@@ -1,6 +1,11 @@
 
 var nguoiDungService = new NguoiDungService();
 
+
+function testing() {
+  console.log("go ahead");
+};
+
 getListUser();
 
 
