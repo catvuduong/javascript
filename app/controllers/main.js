@@ -1,5 +1,8 @@
 
 var nguoiDungService = new NguoiDungService();
+function github() {
+  console.log("im the best");
+};
 
 
 function testing() {
