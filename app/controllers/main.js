@@ -1,6 +1,10 @@
 
 var nguoiDungService = new NguoiDungService();
 
+function github() {
+  console.log(12312321);
+}
+
 
 function testing() {
   console.log("go ahead");
