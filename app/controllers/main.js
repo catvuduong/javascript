@@ -5,6 +5,10 @@ function github() {
 };
 
 
+function hello() {
+  console.log(123123);
+};
+
 function testing() {
   console.log("go ahead");
 };
