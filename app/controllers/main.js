@@ -6,7 +6,7 @@ function github() {
 
 
 function hello() {
-  console.log(123123);
+  console.log(1231232);
 };
 
 function testing() {
